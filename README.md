@@ -1,4 +1,4 @@
-# Comparação de Pipelines de Reconstrução 3D — Projeto Leão
+# Comparação de Pipelines de Reconstrução 3D — Gaussian Grouping
 
 ## Introdução
 
